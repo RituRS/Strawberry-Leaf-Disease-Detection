@@ -6,9 +6,10 @@ This project aims to detect diseases in strawberry plants using deep learning te
 
 The PlantVillage dataset contains images collected by researchers at Pennsylvania State University. It consists of 2 classes, including healthy strawberry leaves and those affected by leaf scorch. Each class contains a large number of labeled images for training and evaluation purposes.
 
-- **Source**: [PlantVillage Kaggle Dataset](link_to_dataset)
+- **Source**: [PlantVillage Kaggle Dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
 - **Number of Classes**: 2
 - **Total Images**: 1565
+- **License**: [CC BY-NC-SA 4.0]
 
 ## Model Architecture
 
