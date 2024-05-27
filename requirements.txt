@@ -5,4 +5,4 @@ Keras
 NumPy
 Matplotlib
 Pandas
-etc. (list any additional dependencies if necessary)
+etc.
