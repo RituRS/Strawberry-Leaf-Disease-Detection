@@ -1,0 +1,8 @@
+Requirements:
+Python 3.x
+TensorFlow
+Keras
+NumPy
+Matplotlib
+Pandas
+etc. (list any additional dependencies if necessary)
