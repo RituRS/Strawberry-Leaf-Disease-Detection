@@ -36,8 +36,5 @@ To use the trained model for inference:
 
 ## Author
 
-Rituja
+Rituja Saha
 
-## License
-
-[Include license information if applicable]
